@@ -23,7 +23,7 @@ label.pack(anchor='center')
 label.config(font=("Calibri", 35))
 
 # Create Message
-Fact = 'Wishing you a joyous Christmas this year from one coding \n nerd to another. \n With love, \n Megan'
+Fact = 'Wishing you a joyous Christmas this year from one coding \n nerd to another. \n With love, \n Name'
 
 # Insert The Fact.
 text.insert(END, Fact)
